@@ -1,0 +1,4 @@
+config:
+  cloudflare:accountId: <CLOUDFLARE_ACCOUNT_ID>
+  cloudflare:apiToken:
+    secure: <CLOUDFLARE_API_TOKEN>
